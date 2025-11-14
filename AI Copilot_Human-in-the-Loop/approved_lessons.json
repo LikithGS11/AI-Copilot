@@ -1,0 +1,35 @@
+{
+    "sections": [
+        {
+            "id": "lo1",
+            "title": "Learning Objective 1",
+            "content": "By the end of this lesson, students will be able to write basic Python scripts to perform arithmetic operations and print outputs.",
+            "type": "learning_objective",
+            "bloom_level": "Apply",
+            "rejection_comments": ""
+        },
+        {
+            "id": "lo2",
+            "title": "Learning Objective 2",
+            "content": "Students will understand and apply variables, data types, and basic control structures in Python.",
+            "type": "learning_objective",
+            "bloom_level": "Understand",
+            "rejection_comments": ""
+        },
+        {
+            "id": "lesson1",
+            "title": "Lesson Content",
+            "content": "Python is a high-level programming language known for its simplicity. To start, install Python from python.org. Use print('Hello, World!') to display text. Variables store data: x = 5. Data types include int, float, str. Loops like for i in range(5): print(i) repeat actions.",
+            "type": "lesson",
+            "rejection_comments": ""
+        },
+        {
+            "id": "assessment1",
+            "title": "Assessment",
+            "content": "Write a Python script that takes two numbers as input, adds them, and prints the result. Also, create a loop to print numbers from 1 to 10.",
+            "type": "assessment",
+            "bloom_level": "Evaluate",
+            "rejection_comments": ""
+        }
+    ]
+}

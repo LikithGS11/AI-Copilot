@@ -1,45 +1,38 @@
 {
-    "module_title": "Data Visualization with Python",
+    "module_title": "Goal-Setting Framework",
     "sections": [
         {
             "id": "sec1",
-            "title": "Introduction to Data Visualization",
-            "content": "Understand the importance of data visualization and its applications in real-world scenarios.",
+            "title": "Introduction to Goal-Setting Framework",
+            "content": "Understand the importance and benefits of setting goals.",
             "type": "learning_objective",
-            "bloom_level": "Remember"
-        },
-        {
-            "id": "sec2",
-            "title": "Setting up the Environment",
-            "content": "Install necessary libraries and set up a Python environment for data visualization.",
-            "type": "lesson",
             "bloom_level": "Understand"
         },
         {
+            "id": "sec2",
+            "title": "Identifying and Setting SMART Goals",
+            "content": "Learn how to set Specific, Measurable, Achievable, Relevant, and Time-bound (SMART) goals.",
+            "type": "lesson",
+            "bloom_level": "Apply"
+        },
+        {
             "id": "sec3",
-            "title": "Basic Visualization with Matplotlib",
-            "content": "Create basic visualizations using Matplotlib, including line plots, scatter plots, and bar charts.",
+            "title": "Creating an Action Plan",
+            "content": "Develop a step-by-step plan to achieve your goals.",
             "type": "lesson",
             "bloom_level": "Apply"
         },
         {
             "id": "sec4",
-            "title": "Advanced Visualization with Seaborn",
-            "content": "Create advanced visualizations using Seaborn, including heatmaps and box plots.",
+            "title": "Tracking Progress and Overcoming Obstacles",
+            "content": "Understand how to track progress and overcome obstacles that may hinder goal achievement.",
             "type": "lesson",
-            "bloom_level": "Apply"
+            "bloom_level": "Analyze"
         },
         {
             "id": "sec5",
-            "title": "Data Visualization Project",
-            "content": "Apply data visualization concepts to a real-world project, using a dataset of choice.",
-            "type": "project",
-            "bloom_level": "Create"
-        },
-        {
-            "id": "sec6",
-            "title": "Project Assessment",
-            "content": "Assess the project's effectiveness in communicating insights and recommendations.",
+            "title": "Assessment and Reflection",
+            "content": "Reflect on the goal-setting process and assess progress towards achieving goals.",
             "type": "assessment",
             "bloom_level": "Evaluate"
         }

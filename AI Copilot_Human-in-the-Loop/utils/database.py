@@ -4,8 +4,9 @@ import os
 from datetime import datetime
 from contextlib import contextmanager
 
-# Database configuration
-DB_PATH = "ai_copilot_hil_edit/modules.db"
+# Database configuration - get path relative to this file
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_PATH = os.path.join(SCRIPT_DIR, "..", "modules.db")
 
 @contextmanager
 def get_db_connection():

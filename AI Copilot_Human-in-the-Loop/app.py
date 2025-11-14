@@ -327,7 +327,7 @@ dark_css = """
 """
 
 # Load mock AI output
-AI_OUTPUT_FILE = "ai_copilot_hil_edit/sample_ai_output.json"
+AI_OUTPUT_FILE = "AI Copilot_Human-in-the-Loop/sample_ai_output.json"
 APPROVED_FILE = "ai_copilot_hil_edit/approved_lessons.json"
 VERSIONS_DIR = "ai_copilot_hil_edit/versions"
 

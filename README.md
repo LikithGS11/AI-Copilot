@@ -119,7 +119,7 @@ python -m venv venv
 ### 3. Activate  
 **Windows**
 ```powershell
-.env\Scripts\Activate.ps1
+.venv\Scripts\Activate.ps1
 ```
 **Mac/Linux**
 ```bash
